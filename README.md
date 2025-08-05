@@ -5,7 +5,7 @@
 [![Status](https://img.shields.io/badge/Status-Ongoing-blue?style=flat-square)]()
 
 Welcome to my personal **JavaScript Learning Journey** repository!  
-This is where I document my progress as I dive into the world of JavaScript—from basic syntax and logic to DOM manipulation and backend development with Node.js.
+This is where I document my progress as I dive into the world of JavaScript from basic syntax and logic to DOM manipulation and backend development with Node.js.
 
 ---
 
@@ -16,7 +16,7 @@ This project acts as my digital journal to:
 - Learn JavaScript through practical coding
 - Build logic using real-life coding examples
 - Understand the fundamentals of programming
-- Solve beginner to advanced-level challenges
+- Solve beginner to advanced level challenges
 - Track my consistent progress and growth as a developer
 
 Each file or folder represents a concept, project, or code challenge I’ve worked on.
