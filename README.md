@@ -50,7 +50,7 @@ Each file or folder represents a concept, project, or code challenge I’ve work
 
 > *"Learning to code is like learning a superpower."*
 
-This repo is my hands-on learning companion where I:
+This repo is my hands-on learning companion where i :
 
 - Practice coding every day
 - Build problem-solving skills
@@ -66,9 +66,9 @@ This repo is my hands-on learning companion where I:
 
    ```bash
    git clone https://github.com/ghanashyambudhathoki01/JavaScript-Practice-Journey.git
-Navigate through folders and files:
+2.Navigate through folders and files:
 
-2.Each file is named by concept or lesson.
+Each file is named by concept or lesson.
 
 Open and run .js files using:
 
