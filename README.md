@@ -88,8 +88,9 @@ Aspiring Full Stack Developer | Computer Educator | Creative Designer | Writer
 📚 Passionate about making code logical, beautiful, and impactful.
 Helping others understand tech through creativity and simplicity.
 
-Connect with me:
-
+Connect with me: <br>
+[![Instagram](https://img.shields.io/badge/Instagram-Active-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ghanashyam_072?igsh=dm9yZHZhYjJmcHZ6)
+[![Facebook](https://img.shields.io/badge/Facebook-Active-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/samraz.budathoki.1)
  
 
 🌐 Website: (Coming soon)
