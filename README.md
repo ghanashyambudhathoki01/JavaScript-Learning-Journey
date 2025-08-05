@@ -25,7 +25,7 @@ Each file or folder represents a concept, project, or code challenge I’ve work
 
 ## ✨ Skills I'm Building
 
-### ✅ JavaScript Topics Covered (learning)
+### JavaScript Topics Covered (learning)
 
 * Variables (`let`, `const`, `var`)
 * Data Types (String, Number, Boolean, Undefined, Null)
@@ -66,7 +66,7 @@ This repo is my hands-on learning companion where i :
 
    ```bash
    git clone https://github.com/ghanashyambudhathoki01/JavaScript-Practice-Journey.git
-2.Navigate through folders and files:
+2. **Navigate through folders and files:
 
 Each file is named by concept or lesson.
 
