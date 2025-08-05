@@ -66,7 +66,7 @@ This repo is my hands-on learning companion where i :
 
    ```bash
    git clone https://github.com/ghanashyambudhathoki01/JavaScript-Practice-Journey.git
-2. **Navigate through folders and files:
+2. Navigate through folders and files:
 
 Each file is named by concept or lesson.
 
