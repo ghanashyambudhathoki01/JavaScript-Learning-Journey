@@ -30,7 +30,7 @@ Each file or folder represents a concept, project, or code challenge I’ve work
 * Variables (`let`, `const`, `var`)
 * Data Types (String, Number, Boolean, Undefined, Null)
 * Operators and Expressions
-* Conditional Statements (`if`, `else`, `switch`)
+* Conditional Statements (`if`, `else`, `else if`)
 * Loops (`for`, `while`, `do-while`)
 * Functions (declaration, expression, arrow functions)
 * Arrays and Objects
