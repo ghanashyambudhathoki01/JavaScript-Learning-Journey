@@ -7,3 +7,7 @@
 
 great("Rohan");/*
 //Making a function to greet a person with multiple messages.*/
+function great (name){
+    console.log("Hey " + name + " You are a great!");
+}
+great("Ghanashyam");

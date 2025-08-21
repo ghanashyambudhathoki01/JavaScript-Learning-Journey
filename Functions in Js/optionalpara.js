@@ -12,6 +12,6 @@ console.log("The sum of these number is : " + result3);
 const func1 =(x)=>{
   console.log("I am a an arrow function", x)
 }
-func1(34);
+func1(32);
 func1(45);
 func1(56);
