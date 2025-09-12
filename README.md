@@ -97,6 +97,7 @@ Connect with me: <br>
 
 
 ---
+<h3>Hi,  I made this page private for personal reasons, but I’ll gladly accept your request. Thanks for understanding! </h3>
 <a href="https://www.notion.so/JavaScript-Complete-Note-26cc3cb5e1a68073995ed3457b123fe1?source=copy_link" target="_blank">To gain more insight, read this javascript note.</a>
 
 📜 License
