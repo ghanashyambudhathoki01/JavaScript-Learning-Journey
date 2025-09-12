@@ -1,0 +1,6 @@
+# Force GitHub Linguist to treat HTML and CSS as JavaScript
+*.html linguist-language=JavaScript
+*.css linguist-language=JavaScript
+
+# Ensure all JS files are counted
+*.js linguist-detectable=true
