@@ -93,7 +93,7 @@ Connect with me: <br>
 [![Facebook](https://img.shields.io/badge/Facebook-Active-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/samraz.budathoki.1)
  
 
-🌐 Website: (Coming soon)
+<a href="https://ghanashyambudhathoki.com.np" target="_blank">🌐 Website</a>
 
 
 ---
