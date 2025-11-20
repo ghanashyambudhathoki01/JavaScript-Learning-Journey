@@ -25,7 +25,7 @@ Each file or folder represents a concept, project, or code challenge I’ve work
 
 ## ✨ Skills I'm Building
 
-### JavaScript Topics Covered (learning)
+### JavaScript Topics Covered (Covered)
 
 * Variables (`let`, `const`, `var`)
 * Data Types (String, Number, Boolean, Undefined, Null)
